@@ -1,0 +1,70 @@
+body {
+    text-align: center;
+}
+.arama{
+    /* margin-bottom: 30px; */
+    background-color: #EEEEEE;
+     /* background-color: red;  */
+    width: 90%;
+    text-align: center;
+    height: auto; 
+    /* margin: auto;   */
+    padding: 2px;
+    margin-left: 50px;
+    margin-bottom: 2px;
+    
+             
+}
+#bosluk {
+    width: 25%;
+}
+.birinci {
+    background-color: #7EE5DA;
+    width: 30%; 
+    text-align: center;
+    float: left;
+    /* margin-right: 3px; */
+    padding: 10px;
+    height: auto;
+    margin-left: 3px;
+    margin: auto;
+
+}
+.ikinci {
+    background-color:#70CCC2;
+    text-align: center;
+    float: left;
+    /* margin-right: 3px; */
+    padding: 1px;
+    height: auto;
+    width: 20%;
+    margin: auto;
+}
+.ücüncü {
+    background-color:#62B3AA;
+    width: 40%;
+    text-align: center;
+    float: left;
+    /* margin-right: 3px; */
+    padding: 1px;
+    height: 104px;
+    margin: auto;
+}
+.mavi {
+   /* padding: 1%; */
+   height: auto;
+   /* width: auto; */
+   text-align: center;
+   margin-left: 60px;
+   width: 98.3%;
+   /* margin-left: 150px; */
+   margin-left: 50px;
+}
+.copy {
+   /* text-align: center; */
+   /* float: left; */
+   width: 20%;
+   display: flex;
+   /* justify-content: center; */
+   margin: auto;
+}
